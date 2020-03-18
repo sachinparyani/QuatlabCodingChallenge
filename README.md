@@ -1,2 +1,2 @@
-# QuatlabCodingChallenge
-Source code for my solution for Quant Lab's Coding Challenge
+# Ybnm
+Source code for my solution for ytbn
